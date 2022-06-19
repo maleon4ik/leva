@@ -1,0 +1,27 @@
+
+
+img{
+    border: 10px solid #333;
+    border-radius: 15px;
+}
+
+.bg{
+    background-color: greenyellow;
+    padding: 10px;
+    border: 10 px solid #333;
+    border-radius: 15px;
+    max-width: 800px;
+}
+
+.st{
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    
+    
+}
+
+.main{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
